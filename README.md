@@ -54,7 +54,7 @@ $ npm install
 
 ```bash
 $ cd server
-$ node server.js
+$ npm run start
 ```
 
 #### Start the Frontend (Vite Dev Server)
