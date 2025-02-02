@@ -98,4 +98,4 @@ This project is **open-source** and available under the  **MIT License** .
 
 Got ideas to improve this project? PRs and contributions are welcome! 🔥
 
-📌  **Author** : [Ibnu Fadhil](https://github.com/ge)
+📌  **Author** : [Ibnu Fadhil](https://github.com/gelaws-hub)
