@@ -19,6 +19,8 @@ app.use(
   })
 );
 
+console.log("ORIGIN_URL", process.env.ORIGIN_URL?.split(","))
+
 const io = new Server(server, {
   cors: {
     origin: process.env.ORIGIN_URL?.split(","),
